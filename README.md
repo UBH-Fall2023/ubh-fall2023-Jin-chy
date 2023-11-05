@@ -10,3 +10,32 @@
 - Projects can not have been submitted to another event, including other hackathons this weekend.
 - [Code of Conduct](https://drive.google.com/file/d/1RH_TtRu6EOHSbOoiSj2h1Q4jswtVILzE/view)
 - [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)
+
+
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+~~~~~~~~~~~~~
+REQUIREMENTS:
+~~~~~~~~~~~~~
+
+1. pip install tensorflow
+2. pip install scikit-learn
+3. pip install Twilio
+4. pip install opencv-python
+5. Update mobile number in the twilio_keys.py to receive mobile notifications if drowsiness is detected.
+
+~~~~~~~~
+DATASETS:
+~~~~~~~~
+1. Train data: located at data/train (contains drowsy and not_drowsy images)
+2. Test data: located at data/test (contains drowsy and not_drowsy images)
+
+~~~~~~~~~
+EXECUTION:
+~~~~~~~~~
+1. Install jupyter notebook.
+2. Run DrowsinessDetection.ipynb file to train the model and then perform testing.
+
+
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
