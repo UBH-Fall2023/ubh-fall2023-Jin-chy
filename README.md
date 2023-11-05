@@ -14,7 +14,8 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------
-## ABOUT: (http://your-link-here.com](https://youtu.be/QBlNgo8ESYo)
+## [ABOUT:](https://youtu.be/QBlNgo8ESYo)
+
 
  The project focuses on creating an algorithm that detects drowsy drivers. It utilizes deep learning to analyze images and determine if a driver is exhibiting signs of drowsiness while driving. By monitoring the driver's state, we aim to provide timely warnings or alerts to ensure their safety and the safety of others on the road.
 
